@@ -1,0 +1,109 @@
+body {
+    margin: 0;
+}
+
+section {
+    overflow: hidden;
+
+}
+
+* {
+    -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+            box-sizing: border-box;
+
+}
+
+
+
+a {
+    color: inherit;
+    text-decoration: none;
+
+}
+
+
+h1, p, h3 {
+    margin: 0;
+}
+h3 {
+        padding-top: 10px;
+        padding-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+.nav {
+    height: 100px;
+    width: 100%;
+}
+
+.container {
+    max-width: 960px;
+    width: 100%;
+    margin: auto;
+    
+}
+
+.logo {
+    float: left;
+    width: 350px;
+    padding-top: 10px;
+}  
+
+.menu {
+    float: right;
+    width: 400px;
+    padding-top: 40px;
+}
+header {
+    height: 300px;
+}
+.menu > li{
+    display: inline-block;
+    padding:0px 0px 0 0; 
+    margin-top: 40px;
+    margin-right: 10px;
+}
+.title-wrapper {
+    padding-top: 100px;
+    text-align: center;
+    width: 100%;
+}
+.subtitle-wrapper {
+    padding-top: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+.intro {
+    width: 50%; 
+    float: left;
+    padding-top: 40px;
+}
+
+.right {
+    text-align: center;
+}
+ 
+.map2 { 
+    height: 700px;
+    width: 100%;
+}
+
+.map {
+    float: left;
+    width: 100%;
+    height: 550px;
+    
+}
+.vido {
+   
+ 
+    margin: auto;
+}
